@@ -1,0 +1,24 @@
+/**
+ * Code from:
+ *  https://developers.google.com/web/fundamentals/app-install-banners
+ *  This file should contain any css declarations
+ *   specific to launching the page as a PWA, standalone.
+ */
+
+
+@media all and (display-mode: standalone) {
+  body {
+    background-color: yellow;
+  }
+}
+
+/*
+if (window.matchMedia('(display-mode: standalone)').matches) {
+  console.log('display-mode is standalone');
+}
+
+
+if (window.navigator.standalone === true) {
+  console.log('display-mode is standalone');
+}
+*/
