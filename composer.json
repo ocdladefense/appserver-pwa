@@ -1,0 +1,14 @@
+{
+    "name": "clickpdx/appserver-pwa",
+    "description": "A JavaScript front-end for the PHP Application Server.",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "José Bernal",
+            "email": "jbernal.web.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "composer/installers":"~1.0"
+    }
+}
