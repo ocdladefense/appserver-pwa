@@ -2,6 +2,7 @@
     "name": "clickpdx/appserver-pwa",
     "description": "A JavaScript front-end for the PHP Application Server.",
     "type": "wordpress-plugin",
+    "license": "MIT",
     "authors": [
         {
             "name": "José Bernal",
