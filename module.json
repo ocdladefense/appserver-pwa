@@ -1,0 +1,12 @@
+{
+    "comment": "Module definition file.",
+    "name": "pwa",
+    "description": "Provide a manifest for progressive web apps.",
+    "files": [],
+    "routes": {
+        "manifest": {
+            "callback": "manifest",
+            "content-type": "application/json"
+        }
+    }
+}
