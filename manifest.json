@@ -1,11 +1,11 @@
 {
-    "name": "OCDLA",
-    "short_name": "OCDLA",
-    "start_url": "/webconsole",
+    "name": "HighScope",
+    "short_name": "HighScope",
+    "start_url": "/letterlinks",
     "display": "standalone",
     "background_color": "#c4a12e",
     "theme_color": "#c4a12e",
-    "description": "Legal research tools for OCDLA members.",
+    "description": "HighScope Curriculum Evolution.",
     "scope": "/",
     "serviceworker": {
       "src": "/sw.js"
